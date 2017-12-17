@@ -30,10 +30,10 @@ function isEven(number) {
 };
 
 isEven(8)
-isEven(69)
+isEven(11)
 /* 
 Write your explanation for Exercise #2 here
-// the number % 2 == 0 method allows the function to test if there are any remainder after dividing the user input
-// if the remainder is 0 then we know the number must be even otherwise it is a odd number
+// the number % 2 == 0 method allows the function to test if there are any remainder after dividing the user input by 2
+// if the remainder is 0 then we know the number must be even otherwise it is a odd number.
 
 */
